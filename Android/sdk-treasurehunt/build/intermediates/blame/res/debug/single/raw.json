@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/raw/passthrough_fragment.shader",
+        "source": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/res/raw/passthrough_fragment.shader"
+    },
+    {
+        "merged": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/raw/light_vertex.shader",
+        "source": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/res/raw/light_vertex.shader"
+    },
+    {
+        "merged": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/raw/grid_fragment.shader",
+        "source": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/res/raw/grid_fragment.shader"
+    }
+]

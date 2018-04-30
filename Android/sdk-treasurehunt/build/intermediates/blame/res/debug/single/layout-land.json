@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/settings_button.xml",
+        "source": "/Users/wumengyang/.android/build-cache/d02a78a6e17277bafe0602c077ff5fdd58bfe9ad/output/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/Users/wumengyang/.android/build-cache/d02a78a6e17277bafe0602c077ff5fdd58bfe9ad/output/res/layout-land/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout-land/back_button.xml",
+        "source": "/Users/wumengyang/.android/build-cache/d02a78a6e17277bafe0602c077ff5fdd58bfe9ad/output/res/layout-land/back_button.xml"
+    }
+]

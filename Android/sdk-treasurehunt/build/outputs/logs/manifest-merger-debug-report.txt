@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:3:7-55
+	android:versionName
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:5:7-35
+		INJECTED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml
+		INJECTED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:4:7-38
+		INJECTED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml
+		INJECTED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:8:5-74
+MERGED from [com.google.vr:sdk-audio:1.80.0] /Users/wumengyang/.android/build-cache/f255ea406d4616b78b0086f125f464c10d7fcaef/output/AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-base:1.80.0] /Users/wumengyang/.android/build-cache/4820d7b3fc504b74aaaf344624acb887b5d297c3/output/AndroidManifest.xml:5:5-73
+MERGED from [com.google.vr:sdk-common:1.80.0] /Users/wumengyang/.android/build-cache/d02a78a6e17277bafe0602c077ff5fdd58bfe9ad/output/AndroidManifest.xml:3:5-73
+	android:targetSdkVersion
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:8:42-71
+		INJECTED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml
+		INJECTED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:8:15-41
+		INJECTED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml
+		INJECTED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:9:5-78
+MERGED from [com.google.vr:sdk-base:1.80.0] /Users/wumengyang/.android/build-cache/4820d7b3fc504b74aaaf344624acb887b5d297c3/output/AndroidManifest.xml:6:5-77
+	android:glEsVersion
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:9:19-51
+	android:required
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:9:52-75
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:14:5-79
+MERGED from [com.google.vr:sdk-base:1.80.0] /Users/wumengyang/.android/build-cache/4820d7b3fc504b74aaaf344624acb887b5d297c3/output/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:14:22-77
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:17:5-97
+	android:required
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:17:72-95
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:17:19-71
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:18:5-93
+	android:required
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:18:68-91
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:18:19-67
+uses-feature#android.software.vr.mode
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:21:5-85
+MERGED from [com.google.vr:sdk-base:1.80.0] /Users/wumengyang/.android/build-cache/4820d7b3fc504b74aaaf344624acb887b5d297c3/output/AndroidManifest.xml:13:5-85
+	android:required
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:21:59-83
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:21:19-58
+uses-feature#android.hardware.vr.high_performance
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:23:5-97
+MERGED from [com.google.vr:sdk-base:1.80.0] /Users/wumengyang/.android/build-cache/4820d7b3fc504b74aaaf344624acb887b5d297c3/output/AndroidManifest.xml:15:5-97
+	android:required
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:23:71-95
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:23:19-70
+application
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:25:5-56:19
+	android:label
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:28:13-49
+	android:supportsRtl
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:27:13-39
+	android:allowBackup
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:26:13-39
+	android:theme
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:29:13-51
+activity#com.google.vr.sdk.samples.treasurehunt.TreasureHuntActivity
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:30:9-55:20
+	android:screenOrientation
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:33:17-54
+	android:enableVrMode
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:35:17-69
+	android:label
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:32:17-49
+	android:resizeableActivity
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:36:17-51
+	android:configChanges
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:34:17-78
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:31:17-53
+meta-data#com.google.android.vr.icon
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:39:13-40:63
+	android:resource
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:40:24-60
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:39:24-65
+meta-data#com.google.android.vr.icon_background
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:41:13-42:74
+	android:resource
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:42:24-71
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:41:24-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+com.google.intent.category.CARDBOARD+com.google.intent.category.DAYDREAM
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:44:13-54:29
+action#android.intent.action.MAIN
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:46:27-74
+category#com.google.intent.category.CARDBOARD
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:47:17-81
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:47:27-78
+category#com.google.intent.category.DAYDREAM
+ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:53:17-80
+	android:name
+		ADDED from /Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/AndroidManifest.xml:53:27-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.vr:sdk-base:1.80.0] /Users/wumengyang/.android/build-cache/4820d7b3fc504b74aaaf344624acb887b5d297c3/output/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.80.0] /Users/wumengyang/.android/build-cache/4820d7b3fc504b74aaaf344624acb887b5d297c3/output/AndroidManifest.xml:10:22-78

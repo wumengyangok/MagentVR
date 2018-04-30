@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-nodpi/vr_icon.png",
+        "source": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/res/drawable-nodpi/vr_icon.png"
+    },
+    {
+        "merged": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable-nodpi/vr_icon_background.png",
+        "source": "/Users/wumengyang/Desktop/FinalYearProject/VR/MagentVR/gvr-android-sdk-1.80.0/samples/sdk-treasurehunt/src/main/res/drawable-nodpi/vr_icon_background.png"
+    }
+]
